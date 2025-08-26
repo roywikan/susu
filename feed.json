@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SUSU",
+    "description": "",
+    "home_page_url": "https://susu.biz.id",
+    "feed_url": "https://susu.biz.id/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "The Motherhood Club"
+    },
+    "items": [
+        {
+            "id": "https://susu.biz.id/susumu.html",
+            "url": "https://susu.biz.id/susumu.html",
+            "title": "susumu",
+            "summary": "gede banget",
+            "content_html": "<p>gede banget</p>",
+            "author": {
+                "name": "The Motherhood Club"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-26T11:24:45+07:00",
+            "date_modified": "2025-08-26T11:24:45+07:00"
+        }
+    ]
+}

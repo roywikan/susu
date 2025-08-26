@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>SUSU</title>
+    <link href="https://susu.biz.id/feed.xml" rel="self" />
+    <link href="https://susu.biz.id" />
+    <updated>2025-08-26T11:24:45+07:00</updated>
+    <author>
+        <name>The Motherhood Club</name>
+    </author>
+    <id>https://susu.biz.id</id>
+
+    <entry>
+        <title>susumu</title>
+        <author>
+            <name>The Motherhood Club</name>
+        </author>
+        <link href="https://susu.biz.id/susumu.html"/>
+        <id>https://susu.biz.id/susumu.html</id>
+
+        <updated>2025-08-26T11:24:45+07:00</updated>
+            <summary>
+                <![CDATA[
+                    gede banget
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>gede banget</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,2 +1,0 @@
-# susu
-susu.biz.id
